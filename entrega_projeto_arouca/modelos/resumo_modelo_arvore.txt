@@ -1,0 +1,13 @@
+Call:
+rpart::rpart(formula = eh_gol ~ jogador + pe_finalizacao + regiao_quadra + 
+    periodo, data = finalizacoes_ml, method = "class")
+  n= 19 
+
+    CP nsplit rel error xerror xstd
+1 0.01      0         1      0    0
+
+Node number 1: 19 observations
+  predicted class=0  expected loss=0.4736842  P(node) =1
+    class counts:    10     9
+   probabilities: 0.526 0.474 
+

@@ -1,0 +1,4 @@
+    Previsto
+Real  0
+   0 10
+   1  9

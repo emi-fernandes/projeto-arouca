@@ -1,0 +1,28 @@
+
+Call:
+glm(formula = eh_gol ~ jogador + pe_finalizacao + regiao_quadra + 
+    periodo, family = binomial(), data = finalizacoes_ml)
+
+Coefficients:
+                                Estimate Std. Error z value Pr(>|z|)
+(Intercept)                       279.91  981893.30       0        1
+jogadorluca gabriel              -253.35 1044480.15       0        1
+jogadormateu                     -102.19  434732.85       0        1
+jogadorzé coutinho               -152.37  599296.05       0        1
+pe_finalizacaoesquerdo           -102.15  533612.06       0        1
+regiao_quadracentro              -102.15  470456.57       0        1
+regiao_quadrafrontal             -100.20  335536.30       0        1
+regiao_quadralateral             -153.40  530278.65       0        1
+regiao_quadralateral_direita     -100.97  622102.75       0        1
+regiao_quadralateral_esquerda    -204.33  671075.25       0        1
+regiao_quadralonga_distancia     -155.32  615815.59       0        1
+periodosegundo_tempo              -49.01  176332.61       0        1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 2.6287e+01  on 18  degrees of freedom
+Residual deviance: 2.2679e-10  on  7  degrees of freedom
+AIC: 24
+
+Number of Fisher Scoring iterations: 25
+
