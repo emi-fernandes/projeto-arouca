@@ -49,13 +49,13 @@ Os atletas com maior número de finalizações foram:
 - Matteo: 8 finalizações;
 - Josué: 6 finalizações;
 - Zé Coutinho: 4 finalizações;
-- Luca Gabriel: 1 finalização.
+- Lucca Gabriel: 1 finalização.
 
 Em gols marcados, os destaques foram:
 - Josué: 3 gols;
 - Matteo: 3 gols;
 - Zé Coutinho: 2 gols;
-- Luca Gabriel: 1 gol.
+- Lucca Gabriel: 1 gol.
 
 Esses dados mostram concentração ofensiva principalmente em Matteo e Josué, tanto no volume de chutes quanto na conversão em gols.
 ### 4.4 Aproveitamento por jogador
@@ -63,7 +63,7 @@ Considerando a proporção entre gols e finalizações:
 - Matteo apresentou taxa de gol de 37,5%;
 - Josué apresentou taxa de gol de 50,0%;
 - Zé Coutinho apresentou taxa de gol de 50,0%;
-- Luca Gabriel apresentou 100,0%, embora com apenas uma observação.
+- Lucca Gabriel apresentou 100,0%, embora com apenas uma observação.
 
 Como a base é pequena, esses percentuais devem ser interpretados com cautela.
 ### 4.5 Escanteios
